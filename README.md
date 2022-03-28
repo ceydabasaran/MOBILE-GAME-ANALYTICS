@@ -1,4 +1,4 @@
-# GAME-ANALYTICS
+# MOBILE GAME-ANALYTICS
 It is game metrics analysis for 3 different games.
 
 There is 3 datasets for 3 different games.
